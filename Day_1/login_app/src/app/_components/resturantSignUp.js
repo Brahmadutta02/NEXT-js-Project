@@ -4,7 +4,7 @@ const ResturantSignUp=()=>{
         <h3>Signup</h3>
         <div>
             <div className="input-wrapper">
-            <input type="text" placeholder="Enter email id" className="input-field"/>
+            <input type="text" placeholder="Enter Email Id" className="input-field"/>
             </div>
 
             <div className="input-wrapper">
@@ -12,11 +12,11 @@ const ResturantSignUp=()=>{
             </div>
 
             <div className="input-wrapper">
-            <input type="password" placeholder="Enter password" className="input-field"/>
+            <input type="password" placeholder="Enter Password" className="input-field"/>
             </div>
 
             <div className="input-wrapper">
-            <input type="password" placeholder="Confirm password" className="input-field"/>
+            <input type="password" placeholder="Enter Confirm Password" className="input-field"/>
             </div>
 
             <div className="input-wrapper">
